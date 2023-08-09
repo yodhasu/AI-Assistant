@@ -1,0 +1,7 @@
+speech_recognition
+os
+pyttsx3
+pywhatkit
+wikipedia
+datetime
+time
